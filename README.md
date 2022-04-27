@@ -2,6 +2,8 @@
 ## Deliverable 1: Create a Horizontal Bar Chart
 Using your knowledge of JavaScript, Plotly, and D3.js, create a horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. 
 Using sample_values,otu_ids,otu_labels.
+
+
 ![hw01](https://user-images.githubusercontent.com/88943257/165642903-5180df8b-8062-40a3-9a0b-db19d054b968.png)
 
 ## Deliverable 2: Create a Bubble Chart
