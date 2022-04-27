@@ -27,4 +27,5 @@ Add information about what each graph visualizes, either under or next to each g
 Make the webpage mobile-responsive.
 Change the layout of the page.
 Add a navigation bar that allows you to select the bar or bubble chart on the page.
-![dashboard_part1](https://user-images.githubusercontent.com/88943257/165644874-9b29820f-7c3f-4acf-9b56-aa5ad030a88e.png)
+![B4CBB924-5FBB-4788-B5EE-EF6430FB287A_1_201_a](https://user-images.githubusercontent.com/88943257/165645299-8ed9a84e-32f8-4575-9169-f76b2c62aaf7.jpeg)
+
